@@ -1,0 +1,35 @@
+* {
+  font-family: "Barlow", sans-serif;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  color: #333;
+}
+
+p {
+  color: #777;
+}
+
+body {
+  color: #f9fafc;
+}
+
+label {
+  color: #777;
+  font-weight: bold;
+  font-size: 0.9rem;
+}
+
+input,
+textarea {
+  padding: 0.6rem;
+  border: none;
+  border-radius: 3px;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+textarea {
+  height: 120px;
+}
+
+/* Actions */
